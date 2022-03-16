@@ -4,9 +4,10 @@ Hello, I'm Furkan Cakici,
 
 I am a Frontend Developer graduated from Marmara University Computer Education. I can say that my biggest motivation when designing web applications is to learn new things every day. I am interested in nature sports, I participate in camping activities and I am also interested in amateur angling. I continue to learn and practice. 🚀
 
-🌱 I’m currently learning Next.js
-💬 Ask me about
-⚡ Fun fact : Camping, Trekking
+🌱 I’m currently learning Next.js <br/>
+💬 Ask me about <br/>
+⚡ Fun fact : Camping, Trekking.
+
 
 ## 🌐Socials
 
