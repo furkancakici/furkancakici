@@ -4,9 +4,7 @@ Hello, I'm Furkan Cakici,
 
 I am a Software Developer graduated from Marmara University Computer Technologies Department. I can say that my biggest motivation is learning new things every day when designing web applications. I am interested in nature sports, I participate in camping activities and I am also interested in amateur angling. I continue to learn and practice. 🚀
 
-📚 I'm currently learning Mobile Development<br>
-🎯 Goals: Mobile Application Development for Passive Income<br/>
-⚡ Fun fact : "Tomorrow is the day you'll be thankful for not giving up today." - Steve Maraboli
+⚡ "Tomorrow is the day you'll be thankful for not giving up today." - Steve Maraboli
 
 
 ## 🌐Socials
