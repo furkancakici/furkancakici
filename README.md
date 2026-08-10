@@ -1,6 +1,6 @@
 # Furkan Çakıcı
 
-**Software Developer · Product Builder**
+**Software Developer**
 
 I’m a software developer focused on building web and mobile products, developer tools, and AI-powered applications.
 
